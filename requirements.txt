@@ -1,0 +1,2 @@
+PyAutoGUI~=0.9.53
+pytube~=12.1.0
